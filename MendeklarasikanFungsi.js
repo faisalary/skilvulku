@@ -1,0 +1,2 @@
+function namaSaya(){
+    return "namaSaya";}
